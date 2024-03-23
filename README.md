@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Deepanshu Khandelwal</h1>
-
 <h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkc2006&label=Profile%20views&color=0e75b6&style=flat" alt="dkc2006" /> </p>
 
@@ -14,12 +11,15 @@
 
 - 👯 I’m looking to collaborate on **good resources on Java**
 
+- 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
+
 - 💬 Ask me about **programing**
 
 - 📫 How to reach me **khandelwaldeepanshu6@gmail.com**
 
-- ⚡ Fun fact **I used to think people care about others**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_VMzj1KYeI8OEZxHNh5gzo9RFisY9Qsl/view?usp=drivesdk](https://drive.google.com/file/d/1_VMzj1KYeI8OEZxHNh5gzo9RFisY9Qsl/view?usp=drivesdk)
 
+- ⚡ Fun fact **I used to think people care about others**
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkc2006&show_icons=true&locale=en" alt="dkc2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkc2006&" alt="dkc2006" /></p>
+

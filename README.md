@@ -1,5 +1,5 @@
 ![logo](https://github.com/dkc2006/dkc2006/blob/main/660517df837d310012e12fcc.jpg)
-<h1 align="center">Hi 👋, I'm Deepanshu Khandelwal</h1>
+<h1 align="center">Hi Everyone!, I'm Deepanshu Khandelwal</h1>
 <h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkc2006&label=Profile%20views&color=0e75b6&style=flat" alt="dkc2006" /> </p>

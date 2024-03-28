@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **good resources on Java**
 
-- 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
-
 - 💬 Ask me about **programing**
 
 - 📫 How to reach me **khandelwaldeepanshu6@gmail.com**

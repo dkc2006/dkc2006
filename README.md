@@ -1,29 +1,29 @@
 ![logo](https://github.com/dkc2006/dkc2006/blob/main/660517df837d310012e12fcc.jpg)
-<h1 align="center">Hi Everyone!, I'm Deepanshu Khandelwal</h1>
+<h1 align="center">Hi👋 Everyone!, I'm Deepanshu Khandelwal</h1>
 <h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkc2006&label=Profile%20views&color=0e75b6&style=flat" alt="dkc2006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkc2006" alt="dkc2006" /></a> </p>
 
-- 😄Pronouns: *He/Him*
+- 😄Pronouns: **He/Him**
 
-- 🌱 I’m currently learning *Web Development*
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on *good resources on Java*
+- 👯 I’m looking to collaborate on **good resources on Java**
 
 - 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
 
-- 📝 My internship certificate is here [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
+- 📝 My internship certificate is here [https://drive.google.com/file/d/1--QO9qZH0R6rj1TMhBc2aq5nspvotIPD/view?usp=drivesdk](https://drive.google.com/file/d/1--QO9qZH0R6rj1TMhBc2aq5nspvotIPD/view?usp=drivesdk)
 
-- 💬 Ask me about *programing*
+- 💬 Ask me about **programing**
 
-- 📫 How to reach me *khandelwaldeepanshu6@gmail.com*
+- 📫 How to reach me **khandelwaldeepanshu6@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Deepanshu/Downloads/DEEPANSHU's%20Resume-hackerresume%20(5).pdf
-(file:///C:/Users/Deepanshu/Downloads/DEEPANSHU's%20Resume-hackerresume%20(5).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
 
-- ⚡ Fun fact *I used to think people care about others*
+- ⚡ Fun fact **I used to think people care about others**
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkc2006&show_icons=true&locale=en" alt="dkc2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkc2006&" alt="dkc2006" /></p>
+

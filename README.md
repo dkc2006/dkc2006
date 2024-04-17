@@ -14,7 +14,7 @@
 
 - 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
 
-- 📝 My internship certificate is here [https://drive.google.com/file/d/1--QO9qZH0R6rj1TMhBc2aq5nspvotIPD/view?usp=drivesdk](https://drive.google.com/file/d/1--QO9qZH0R6rj1TMhBc2aq5nspvotIPD/view?usp=drivesdk)
+- 📝 My internship certificate is here [https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk](https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk)
 
 - 💬 Ask me about **programing**
 

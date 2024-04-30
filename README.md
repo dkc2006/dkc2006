@@ -17,7 +17,7 @@
 - 👨‍💻 my portfolio is available at [https://dkc2006.github.io/portfolio](https://dkc2006.github.io/portfolio)
 
 
-- 📝 My internship certificate is here [https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk](https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk)
+- 📝 My internship certificate is here [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
 
 - 💬 Ask me about **programing**
 
@@ -28,7 +28,7 @@
 - 📄 Personal Homepage [https://dkc2006.github.io/Personal-Homepage](https://dkc2006.github.io/Personal-Homepage)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk](https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk)
 
 - ⚡ Fun fact **I used to think people care about others**
 

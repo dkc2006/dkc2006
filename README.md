@@ -28,7 +28,7 @@
 - 📄 Personal Homepage [https://dkc2006.github.io/Personal-Homepage](https://dkc2006.github.io/Personal-Homepage)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk](https://drive.google.com/file/d/1capFT-G6pVMispBH4kvW_2JnyE9a1EFu/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link](https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link)
 
 - ⚡ Fun fact **I used to think people care about others**
 

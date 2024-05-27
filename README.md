@@ -14,9 +14,6 @@
 
 - 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
 
-- 👨‍💻 my portfolio is available at [https://dkc2006.github.io/portfolio](https://dkc2006.github.io/portfolio)
-
-
 - 📝 My internship certificate is here [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
 
 - 💬 Ask me about **programing**

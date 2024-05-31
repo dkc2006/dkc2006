@@ -22,9 +22,6 @@
 
 - 📫 How to reach my any profile **https://linktr.ee/dkc2006**
 
-- 📄 Personal Homepage [https://dkc2006.github.io/Personal-Homepage](https://dkc2006.github.io/Personal-Homepage)
-
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link](https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link)
 
 - ⚡ Fun fact **I used to think people care about others**

@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link](https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link)
 
-- 📄 My Portfolio Website is available at [https://portfolio-website-of-deepanshu2006.netlify.app/](https://portfolio-website-of-deepanshu2006.netlify.app/)
+- 📄 My Portfolio Website is available at [https://portfoliowebsitedkc2006.netlify.app/](https://portfoliowebsitedkc2006.netlify.app/)
 
 - ⚡ Fun fact **I used to think people care about others**
 

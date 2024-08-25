@@ -12,17 +12,13 @@
 
 - 👯 I’m looking to collaborate on **good resources on Java**
 
-- 👨‍💻 my project is available at [https://locationtracking.netlify.app/](https://locationtracking.netlify.app/)
-
-- 📝 My internship certificate is here [https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk](https://drive.google.com/file/d/17nBfz6pFVQGt5mt4mislNNjoZKnvUnz_/view?usp=drivesdk)
-
 - 💬 Ask me about **programing**
 
 - 📫 How to reach me **khandelwaldeepanshu6@gmail.com**
 
 - 📫 How to reach my any profile **https://linktr.ee/dkc2006**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link](https://drive.google.com/file/d/1AiQPUWi06HEcoRbNWH3D-EzkLgaHMMj-/view?usp=drive_link)
+- 📄 My resume [https://drive.google.com/file/d/1zENB58hnD_mEiUs2tn-S-Rrhguf6P2JM/view](https://drive.google.com/file/d/1zENB58hnD_mEiUs2tn-S-Rrhguf6P2JM/view)
 
 - 📄 My Portfolio Website is available at [https://portfoliowebsitedkc2006.netlify.app/](https://portfoliowebsitedkc2006.netlify.app/)
 

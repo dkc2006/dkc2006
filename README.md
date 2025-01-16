@@ -40,7 +40,6 @@
 <a href="https://www.hackerrank.com/khandelwaldeepa5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/khandelwaldeepa5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/deepanshukhandelwal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepanshukhandelwal22" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepanshukhandcs2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/deepanshukhandcs2022" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

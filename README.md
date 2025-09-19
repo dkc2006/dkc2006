@@ -1,4 +1,4 @@
-![logo](https://github.com/dkc2006/dkc2006/blob/main/660517df837d310012e12fcc.jpg)
+![logo](https://github.com/dkc2006/dkc2006/blob/main/Gemini_Generated_Image_yt3s4jyt3s4jyt3s.png)
 <h1 align="center">Hi👋 Everyone!, I'm Deepanshu Khandelwal</h1>
 <h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
 
